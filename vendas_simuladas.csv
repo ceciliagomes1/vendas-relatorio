@@ -1,0 +1,23 @@
+Data,Produto,Categoria,Quantidade,Preço,Vendedor,Região
+2024-01-05,Camiseta,Roupas,3,50,João,Sul
+2024-01-10,Calça,Roupas,1,120,Maria,Sudeste
+2024-01-15,Notebook,Eletrônicos,1,2500,Lucas,Sudeste
+2024-01-20,Mouse,Eletrônicos,2,90,João,Sul
+2024-02-02,Tênis,Calçados,1,300,Maria,Norte
+2024-02-08,Monitor,Eletrônicos,1,800,Lucas,Sudeste
+2024-02-12,Camiseta,Roupas,4,50,João,Sul
+2024-03-03,Calça,Roupas,2,120,Maria,Sudeste
+2024-03-10,Teclado,Eletrônicos,1,150,Lucas,Centro-Oeste
+2024-03-15,Smartphone,Eletrônicos,1,2200,João,Sul
+2024-03-20,Camiseta,Roupas,2,50,Maria,Norte
+2024-04-01,Notebook,Eletrônicos,1,2500,Lucas,Sudeste
+2024-04-05,Meia,Roupas,5,20,João,Sul
+2024-04-10,Relógio,Acessórios,1,450,Maria,Centro-Oeste
+2024-04-15,Mouse,Eletrônicos,3,90,Lucas,Sudeste
+2024-04-20,Boné,Acessórios,2,70,João,Sul
+2024-05-02,Sapato,Calçados,1,320,Maria,Norte
+2024-05-07,Camiseta,Roupas,2,50,Lucas,Centro-Oeste
+2024-05-12,Fone de Ouvido,Eletrônicos,2,250,João,Sul
+2024-05-18,Calça,Roupas,3,120,Maria,Norte
+2024-05-22,Notebook,Eletrônicos,1,2500,Lucas,Sudeste
+2024-05-25,Boné,Acessórios,3,70,João,Centro-Oeste
