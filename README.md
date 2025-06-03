@@ -16,4 +16,11 @@ Este projeto automatiza a geração de relatórios de vendas utilizando Python. 
 ---
 
 ## 📁 Estrutura do Projeto
-
+vendas-automacao-relatorio/
+├── dados/
+│ └── vendas_simuladas.csv
+├── output/
+│ └── receita_mensal.png (gerado pelo script)
+│ └── relatorio_final.xlsx (gerado pelo script)
+├── relatorio_vendas.py
+├── README.md
