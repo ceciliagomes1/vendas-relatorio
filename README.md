@@ -24,3 +24,4 @@ vendas-automacao-relatorio/
 │ └── relatorio_final.xlsx (gerado pelo script)
 ├── relatorio_vendas.py
 ├── README.md
+├── requirements.txt
